@@ -1,8 +1,31 @@
 # Dorothy Vaughan
 
-![Dorothy Vaughan](image.png)
+```
+Este repositório foi criado para atividade de Git e GitHub do Bootcamp Data Analytics da WoMakersCode.
+```
+
+## [Sobre a WoMakersCode](https://www.womakerscode.org/)
+```
+A WoMakersCode foi fundada em 2015 com o propósito de ampliar o acesso de mulheres à tecnologia e apoiar o desenvolvimento de suas carreiras na área.
+
+Idealizada por Cynthia Zanoni, a iniciativa começou conectando mulheres interessadas em tecnologia e criando oportunidades de aprendizado, troca e crescimento profissional.
+
+Com a expansão da comunidade e o fortalecimento das suas iniciativas, em 2021 a WoMakersCode se tornou uma organização sem fins lucrativos (ONG) de inclusão produtiva de mulheres na tecnologia, ampliando sua atuação em formação técnica, mentoria e empregabilidade.
+
+Hoje, a organização conecta mulheres em diferentes países e fortalece um ecossistema que impulsiona carreiras e amplia oportunidades no mercado de tecnologia.
+
+Promover a transformação faz parte da nossa essência.
+
+```
+
+<p>
+  <img src="https://www.womakerscode.org/favicon.ico" width="40" alt="WoMakersCode"/>
+</p>
+
 
 ## 🪪 Biografia:
+
+![Dorothy Vaughan](image.png)
 
 Dorothy Vaughan (1910–2008) foi uma matemática, professora e cientista norte-americana que trabalhou no antigo Comitê Consultivo Nacional para Aeronáutica (NACA), que mais tarde se tornou a NASA. Ela nasceu em Kansas City e destacou-se em uma época marcada pela segregação racial e desigualdade de gênero nos Estados Unidos.  
 
@@ -31,6 +54,8 @@ Da esquerda para a direita: Katherine Johnson, Mary Jackson e Dorothy Vaughan.
 #### Sinopse:
 Em, 1961, plena Guerra Fria, Estados Unidos e União Soviética disputam a supremacia na corrida espacial ao mesmo tempo em que a sociedade norte-americana lida com uma profunda cisão racial, entre brancos e negros. Tal situação é refletida também na NASA, onde um grupo de funcionárias negras é obrigada a trabalhar a parte. É lá que estão Katherine Johnson (Taraji P. Henson), Dorothy Vaughn (Octavia Spencer) e Mary Jackson (Janelle Monáe), grandes amigas que, além de provar sua competência dia após dia, precisam lidar com o preconceito arraigado para que consigam ascender na hierarquia da NASA.
 
+[Filme disponível no Disney+]("https://www.disneyplus.com/pt-br")
+
 #### Elenco:
 * Taraji P. Henson como Katherine Johnson.
 * Octavia Spencer como Dorothy Vaughan.
@@ -48,3 +73,4 @@ O destaque em verde mostra qual branch estou no momento:
 ![print-terminal](image-3.png)
 
 ``Todas as alterações que fiz explicando os comandos git foram feitas em nova branch.``
+
