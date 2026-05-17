@@ -6,13 +6,17 @@ Este repositório foi criado para atividade de Git e GitHub do Bootcamp Data Ana
 
 ## [Sobre a WoMakersCode](https://www.womakerscode.org/)
 ```
-A WoMakersCode foi fundada em 2015 com o propósito de ampliar o acesso de mulheres à tecnologia e apoiar o desenvolvimento de suas carreiras na área.
+A WoMakersCode foi fundada em 2015 com o propósito de ampliar o acesso de mulheres
+à tecnologia e apoiar o desenvolvimento de suas carreiras na área.
+Idealizada por Cynthia Zanoni, a iniciativa começou conectando mulheres
+interessadas em tecnologia e criando oportunidades de aprendizado, troca e crescimento profissional.
 
-Idealizada por Cynthia Zanoni, a iniciativa começou conectando mulheres interessadas em tecnologia e criando oportunidades de aprendizado, troca e crescimento profissional.
+Com a expansão da comunidade e o fortalecimento das suas iniciativas,
+em 2021 a WoMakersCode se tornou uma organização sem fins lucrativos (ONG)
+de inclusão produtiva de mulheres na tecnologia, ampliando sua atuação em formação técnica, mentoria e empregabilidade.
 
-Com a expansão da comunidade e o fortalecimento das suas iniciativas, em 2021 a WoMakersCode se tornou uma organização sem fins lucrativos (ONG) de inclusão produtiva de mulheres na tecnologia, ampliando sua atuação em formação técnica, mentoria e empregabilidade.
-
-Hoje, a organização conecta mulheres em diferentes países e fortalece um ecossistema que impulsiona carreiras e amplia oportunidades no mercado de tecnologia.
+Hoje, a organização conecta mulheres em diferentes países e fortalece
+um ecossistema que impulsiona carreiras e amplia oportunidades no mercado de tecnologia.
 
 Promover a transformação faz parte da nossa essência.
 
