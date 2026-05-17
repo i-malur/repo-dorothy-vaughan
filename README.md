@@ -58,7 +58,7 @@ Da esquerda para a direita: Katherine Johnson, Mary Jackson e Dorothy Vaughan.
 #### Sinopse:
 Em, 1961, plena Guerra Fria, Estados Unidos e União Soviética disputam a supremacia na corrida espacial ao mesmo tempo em que a sociedade norte-americana lida com uma profunda cisão racial, entre brancos e negros. Tal situação é refletida também na NASA, onde um grupo de funcionárias negras é obrigada a trabalhar a parte. É lá que estão Katherine Johnson (Taraji P. Henson), Dorothy Vaughn (Octavia Spencer) e Mary Jackson (Janelle Monáe), grandes amigas que, além de provar sua competência dia após dia, precisam lidar com o preconceito arraigado para que consigam ascender na hierarquia da NASA.
 
-[Filme disponível no Disney+]("https://www.disneyplus.com/pt-br")
+[Filme disponível no Disney+](https://www.disneyplus.com/pt-br)
 
 #### Elenco:
 * Taraji P. Henson como Katherine Johnson.
